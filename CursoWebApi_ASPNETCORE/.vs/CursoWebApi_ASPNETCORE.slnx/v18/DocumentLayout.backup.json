@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|c:\\users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\cursowebapi_aspnetcore\\minhaapi\\secao_2_minhaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|solutionrelative:minhaapi\\secao_2_minhaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|c:\\users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\cursowebapi_aspnetcore\\minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|solutionrelative:minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|c:\\users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\cursowebapi_aspnetcore\\minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|solutionrelative:minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|c:\\users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\cursowebapi_aspnetcore\\minhaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|solutionrelative:minhaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|c:\\users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\cursowebapi_aspnetcore\\minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44532EE6-30B8-1CF9-3957-825365117209}|MinhaApI\\Secao_2_MinhaApI.csproj|solutionrelative:minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Secao_2_MinhaApI.csproj",
+              "DocumentMoniker": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\Secao_2_MinhaApI.csproj",
+              "RelativeDocumentMoniker": "MinhaApI\\Secao_2_MinhaApI.csproj",
+              "ToolTip": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\Secao_2_MinhaApI.csproj",
+              "RelativeToolTip": "MinhaApI\\Secao_2_MinhaApI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T15:04:49.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\appsettings.json",
+              "RelativeDocumentMoniker": "MinhaApI\\appsettings.json",
+              "ToolTip": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\appsettings.json",
+              "RelativeToolTip": "MinhaApI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T14:54:18.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MinhaApI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MinhaApI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T14:53:57.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MinhaApI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MinhaApI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:53:20.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\Program.cs",
+              "RelativeDocumentMoniker": "MinhaApI\\Program.cs",
+              "ToolTip": "C:\\Users\\manuelrodrigues\\source\\repos\\mjrmanr\\roadmap-dotnet8-azure-devops-ia\\CursoWebApi_ASPNETCORE\\MinhaApI\\Program.cs",
+              "RelativeToolTip": "MinhaApI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:53:11.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
