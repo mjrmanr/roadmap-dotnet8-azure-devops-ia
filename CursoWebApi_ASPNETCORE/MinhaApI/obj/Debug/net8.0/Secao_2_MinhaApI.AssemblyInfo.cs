@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Secao_2_MinhaApI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2477e8b7adc5e192848396924fa2b716b2237c51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be8f12383c267c95c158a504bdf300a089155fa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Secao_2_MinhaApI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Secao_2_MinhaApI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

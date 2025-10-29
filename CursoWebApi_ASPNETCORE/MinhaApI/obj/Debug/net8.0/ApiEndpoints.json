@@ -2,7 +2,7 @@
   {
     "ContainingType": "MinhaApI.Controllers.WeatherForecastController",
     "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "WeatherForecast/GetWeatherForecast",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -17,8 +17,7 @@
         ],
         "StatusCode": 200
       }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    ]
   },
   {
     "ContainingType": "MinhaApI.Controllers.WeatherForecastController",
