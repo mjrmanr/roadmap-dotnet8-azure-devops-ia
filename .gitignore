@@ -2,4 +2,27 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/CursoWebApi_ASPNETCORE.slnx/v18/DocumentLayout.json
+# Visual Studio
+**.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+**bin/
+**/obj/
+obj/
+**/Debug/
+
+# NuGet
+project.assets.json
+project.nuget.cache
+.nuget/
+
+# Others
+*.cache
+*.vsidx
+
+/CursoWebApi_ASPNETCORE/.vs/CursoWebApi_ASPNETCORE.slnx/FileContentIndex/735dcc31-d5ac-48ba-99b7-b09bf7cefb9f.vsidx

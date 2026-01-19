@@ -1,0 +1,6 @@
+@Secao_2_Aula_23_MinimalApi_HostAddress = http://localhost:5089
+
+GET {{Secao_2_Aula_23_MinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

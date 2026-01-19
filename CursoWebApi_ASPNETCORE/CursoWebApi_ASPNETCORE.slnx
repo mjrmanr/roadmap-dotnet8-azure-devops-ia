@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="MinhaApI/Secao_2_MinhaApI.csproj" />
+  <Project Path="Secao_2_Aula_23_MinimalApi/Secao_2_Aula_23_MinimalApi.csproj" />
 </Solution>
