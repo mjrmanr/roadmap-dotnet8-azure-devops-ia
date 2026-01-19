@@ -26,3 +26,9 @@ project.nuget.cache
 *.vsidx
 
 /CursoWebApi_ASPNETCORE/.vs/CursoWebApi_ASPNETCORE.slnx/FileContentIndex/735dcc31-d5ac-48ba-99b7-b09bf7cefb9f.vsidx
+/CursoWebApi_ASPNETCORE/.vs/CursoWebApi_ASPNETCORE.slnx/v18/.suo
+/CursoWebApi_ASPNETCORE/MinhaApI/bin/Debug/net8.0/Secao_2_MinhaApI.dll
+/CursoWebApi_ASPNETCORE/MinhaApI/obj/Debug/net8.0/apphost.exe
+/CursoWebApi_ASPNETCORE/MinhaApI/obj/Debug/net8.0/ref/Secao_2_MinhaApI.dll
+/CursoWebApi_ASPNETCORE/MinhaApI/obj/Debug/net8.0/refint/Secao_2_MinhaApI.dll
+/CursoWebApi_ASPNETCORE/.vs/CursoWebApi_ASPNETCORE.slnx/v18/DocumentLayout.backup.json
