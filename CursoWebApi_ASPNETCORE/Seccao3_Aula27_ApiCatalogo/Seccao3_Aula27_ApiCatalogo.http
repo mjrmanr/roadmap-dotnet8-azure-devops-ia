@@ -1,0 +1,6 @@
+@Seccao3_Aula27_ApiCatalogo_HostAddress = http://localhost:5279
+
+GET {{Seccao3_Aula27_ApiCatalogo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="MinhaApI/Secao_2_MinhaApI.csproj" />
   <Project Path="Secao_2_Aula_23_MinimalApi/Secao_2_Aula_23_MinimalApi.csproj" />
+  <Project Path="Seccao3_Aula27_ApiCatalogo/Seccao3_Aula27_ApiCatalogo.csproj" Id="c99d7ee8-80c2-413c-a2dd-ef5f55e63188" />
 </Solution>
